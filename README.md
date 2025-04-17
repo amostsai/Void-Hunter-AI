@@ -2,6 +2,10 @@
 README for Void Hunter AI
 This file contains both Traditional Chinese and English versions.
 -->
+# 備註 NOTE
+本專案由AI chatgpt o4-mini撰寫
+This project was written by AI chatgpt o4-mini
+
 # Void Hunter AI
 
 ## 🌟 專案介紹 (繁體中文)
